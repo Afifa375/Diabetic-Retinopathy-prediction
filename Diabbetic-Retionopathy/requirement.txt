@@ -1,10 +1,6 @@
-tensorflow
-torch
+tensorflow==2.19.0
 opencv-python
 scikit-learn
 matplotlib
 pandas
 numpy
-
-
-
